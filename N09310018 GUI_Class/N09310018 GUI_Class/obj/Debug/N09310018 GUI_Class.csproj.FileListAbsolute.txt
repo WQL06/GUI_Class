@@ -1,0 +1,9 @@
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\bin\Debug\N09310018 GUI_Class.exe.config
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\bin\Debug\N09310018 GUI_Class.exe
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\bin\Debug\N09310018 GUI_Class.pdb
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018 GUI_Class.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018 GUI_Class.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018 GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018 GUI_Class.exe
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018 GUI_Class.pdb
