@@ -16,5 +16,16 @@ namespace N09310018_GUI_Class
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnbutton_Click(object sender, EventArgs e)
+        {
+            btnbutton.Text ="我己經被按過了"
+
+        }
     }
 }
