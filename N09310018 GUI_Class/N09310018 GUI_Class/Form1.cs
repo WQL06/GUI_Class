@@ -24,7 +24,9 @@ namespace N09310018_GUI_Class
 
         private void btnbutton_Click(object sender, EventArgs e)
         {
-            btnbutton.Text ="我己經被按過了"
+            //btnbutton.Text ="我己經被按過了";
+            Form form = new Form1();
+            form.Show();
 
         }
     }

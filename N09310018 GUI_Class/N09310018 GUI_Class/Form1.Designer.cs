@@ -88,7 +88,7 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "吳倩伶";
             // 
-            // Form1
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -98,8 +98,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button);
             this.Controls.Add(this.btnbutton);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FormMain";
+            this.Text = "主程式";
             this.ResumeLayout(false);
             this.PerformLayout();
 
