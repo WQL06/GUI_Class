@@ -16,7 +16,7 @@ namespace N09310018_GUI_Class
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMain());
+            Application.Run(new Form1());
         }
     }
 }

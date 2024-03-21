@@ -20,9 +20,23 @@ namespace N09310018_GUI_Class
         private void btnClick_Click(object sender, EventArgs e)
         {
             if (btnClick.Text == "請按我一下")
-                btnClick.Text == "我已經被按過了";
+                btnClick.Text = "我已經被按過了";
             else if (btnClick.Text == "我已經被按過了")
-                btnClick.Text == "請按我一下";
+                btnClick.Text = "請按我一下";
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "按鈕已經被按過了"; 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string tmp = label2.Text;
+            int sum=Int32.Parse(tmp)+1;
+            button2.Text = sum.ToString();
         }
     }
 }
