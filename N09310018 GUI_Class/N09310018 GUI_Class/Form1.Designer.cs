@@ -33,6 +33,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.BtnTextBox = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnbutton
@@ -88,17 +89,28 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "吳倩伶";
             // 
-            // FormMain
+            // BtnTextBox
+            // 
+            this.BtnTextBox.Location = new System.Drawing.Point(266, 192);
+            this.BtnTextBox.Name = "BtnTextBox";
+            this.BtnTextBox.Size = new System.Drawing.Size(131, 54);
+            this.BtnTextBox.TabIndex = 6;
+            this.BtnTextBox.Text = "輸入框";
+            this.BtnTextBox.UseVisualStyleBackColor = true;
+            this.BtnTextBox.Click += new System.EventHandler(this.BtnTextBox_Click);
+            // 
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(938, 519);
+            this.Controls.Add(this.BtnTextBox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button);
             this.Controls.Add(this.btnbutton);
-            this.Name = "FormMain";
+            this.Name = "Form1";
             this.Text = "主程式";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -112,6 +124,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button BtnTextBox;
     }
 }
 

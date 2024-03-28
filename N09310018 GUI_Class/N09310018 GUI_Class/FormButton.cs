@@ -38,5 +38,9 @@ namespace N09310018_GUI_Class
             int sum=Int32.Parse(tmp)+1;
             button2.Text = sum.ToString();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+         
     }
 }
