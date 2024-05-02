@@ -34,6 +34,11 @@ namespace N09310018_GUI_Class
         { }
             Form formTextBox = new FormTextBox();
                  formTextBox.Show();
+private void button1_Click(object sender, EventArgs e)
+        {
+            for form_Timer=new Form_Timer();
+            Form_Timer.show();
         }
+    }
     }
 }
