@@ -10,24 +10,21 @@ using System.Windows.Forms;
 
 namespace N09310018_GUI_Class
 {
-    public partial class Form_Timer : Form
+    public partial class FormGameFailPawscs : Form
     {
-        public Form_Timer()
+        public FormGameFailPawscs()
         {
             InitializeComponent();
-            this.second = 0;
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            //label1.Text=second.T0String()+"秒";
-            label1.Text = string.Format("{0}秒", this.second);
-            this.scond++;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            timer.Enabled = true;
+            Random r = new Random;
+            int result = r.Next(100);
+            MessageBpx.Show(result.ToString());
+
+
+
         }
     }
 }

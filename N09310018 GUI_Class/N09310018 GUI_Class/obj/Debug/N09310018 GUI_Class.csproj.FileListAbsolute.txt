@@ -10,3 +10,6 @@ C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Deb
 C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.Form1.resources
 C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.FormButton.resources
 C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.FormTextBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.Form_Timer.resources
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.FormTryCath.resources
+C:\Users\MEGAS\Desktop\GUI_Class\N09310018 GUI_Class\N09310018 GUI_Class\obj\Debug\N09310018_GUI_Class.FormGameFailPawscs.resources

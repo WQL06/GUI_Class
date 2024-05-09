@@ -52,6 +52,12 @@
     <Compile Include="Form Timer.Designer.cs">
       <DependentUpon>Form Timer.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormGameFailPawscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameFailPawscs.Designer.cs">
+      <DependentUpon>FormGameFailPawscs.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTextBox.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form Timer.resx">
       <DependentUpon>Form Timer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameFailPawscs.resx">
+      <DependentUpon>FormGameFailPawscs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTextBox.resx">
       <DependentUpon>FormTextBox.cs</DependentUpon>
