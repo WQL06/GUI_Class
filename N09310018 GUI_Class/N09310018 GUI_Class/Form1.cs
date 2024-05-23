@@ -39,6 +39,12 @@ private void button1_Click(object sender, EventArgs e)
             for form_Timer=new Form_Timer();
             Form_Timer.show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            for = new Form_Timer();
+           Form_Timer.show();
+        }
     }
     }
 }
