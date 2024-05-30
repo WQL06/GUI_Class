@@ -16,5 +16,33 @@ namespace N09310018_GUI_Class
         {
             InitializeComponent();
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+                MessageBox.Show("方塊己被按下");
+            else
+                MessageBox.Show("方塊己被取消");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            foreach(Control c in panel1.Controls)
+            {
+                if (c is CheckBox) 
+                {
+                    CheckBox chk = (CheckBox)c;
+                    if (chk.Checked)
+                    {
+                        MessageBox.Show(chk.Text);
+                    }
+                }
+            }
+        }
     }
 }
